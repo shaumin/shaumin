@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shaunak
 
-### full stack developer, ML enthusiast, infrastructure engineer
+### full stack developer, infrastructure engineer, ML enthusiast
 
 <p align="left"> <a href="https://twitter.com/shaumin_dev" target="blank"><img src="https://img.shields.io/twitter/follow/shaumin_dev?logo=twitter&style=for-the-badge" alt="shaumin_dev" /></a> </p>
 
